@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Image/space.jpg</file>
+        <file>Image/space1.jpeg</file>
+        <file>Image/space2.jpeg</file>
+        <file>Image/space3.jpg</file>
+        <file>Image/space4.jpg</file>
+        <file>Image/add.png</file>
+        <file>Image/back.png</file>
+        <file>Image/delete.jpeg</file>
+        <file>Image/frame.jpg</file>
+        <file>Image/search.png</file>
+        <file>Image/space5.jpg</file>
+        <file>Image/search results.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Image/search results.png</file>
+    </qresource>
+</RCC>
